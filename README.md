@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"  />
+  <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"  />
 </div>
 
 ###
@@ -60,7 +60,7 @@
 
 <h4 align="left">OS</h4>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=F0B910&logoColor=323330&labelColor=&style=for-the-badge" height="25" alt="" />
+  <a href="https://linkedin.com/in/elmahdaoui"><img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=F0B910&logoColor=323330&labelColor=&style=for-the-badge" height="25" alt="" /></a>
   <img src="https://img.shields.io/static/v1?message=Windows&logo=windows&label=&color=0074CD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="" />
   <img src="https://img.shields.io/static/v1?message=Android&logo=android&label=&color=75BC54&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="" />
   <img src="https://img.shields.io/static/v1?message=MacOS&logo=macos&label=&color=212121&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="" />
@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdemeh&theme=transparent&hide_border=true&border_radius=0&card_width=900" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdemeh&theme=dark&hide_border=true&border_radius=0&card_width=900&card_height=" alt="" /></a>
 </div>
 
 ###
