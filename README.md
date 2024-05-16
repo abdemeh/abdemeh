@@ -89,7 +89,11 @@
 ###
 
 <div align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdemeh&theme=dark&hide_border=true&border_radius=0&card_width=900&card_height=" alt="" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdemeh&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="" />
 </div>
-
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdemeh&theme=dark&hide_border=true" alt="" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdemeh&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="" />
+</div>
