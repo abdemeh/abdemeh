@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdemeh&theme=transparent&hide_border=true&border_radius=0&card_width=1280" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdemeh&theme=transparent&hide_border=true&border_radius=0&card_width=900" alt="GitHub Streak" /></a>
 </div>
 
 ###
