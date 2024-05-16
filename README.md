@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href=""><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="" /></a>
+  <a href="https://www.linkedin.com/in/elmahdaoui/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="" /></a>
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=053eff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""/>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="" />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""/>
